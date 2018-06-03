@@ -5,3 +5,4 @@ new line
 
 hello world!!!
 hi there
+/n smthng
